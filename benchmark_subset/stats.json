@@ -1,0 +1,322 @@
+{
+  "total_files": 50,
+  "total_duration_sec": 9652.1904375,
+  "total_duration_min": 160.87,
+  "avg_duration_sec": 193.04,
+  "min_duration_sec": 122.16,
+  "max_duration_sec": 294.43,
+  "speaker_count_distribution": {
+    "2": 14,
+    "3": 13,
+    "4": 10,
+    "5": 4,
+    "6": 5,
+    "7": 3,
+    "8": 1
+  },
+  "avg_speakers_per_file": 3.72,
+  "min_speakers": 2,
+  "max_speakers": 8,
+  "files": [
+    {
+      "file_id": "afjiv",
+      "duration_sec": 151.25,
+      "num_speakers": 5,
+      "num_segments": 28
+    },
+    {
+      "file_id": "ampme",
+      "duration_sec": 148.32,
+      "num_speakers": 3,
+      "num_segments": 14
+    },
+    {
+      "file_id": "asxwr",
+      "duration_sec": 237.77,
+      "num_speakers": 3,
+      "num_segments": 18
+    },
+    {
+      "file_id": "aufkn",
+      "duration_sec": 181.49,
+      "num_speakers": 3,
+      "num_segments": 12
+    },
+    {
+      "file_id": "azisu",
+      "duration_sec": 194.14,
+      "num_speakers": 4,
+      "num_segments": 28
+    },
+    {
+      "file_id": "blwmj",
+      "duration_sec": 259.16,
+      "num_speakers": 2,
+      "num_segments": 20
+    },
+    {
+      "file_id": "bydui",
+      "duration_sec": 280.39,
+      "num_speakers": 3,
+      "num_segments": 20
+    },
+    {
+      "file_id": "cwryz",
+      "duration_sec": 155.61,
+      "num_speakers": 4,
+      "num_segments": 19
+    },
+    {
+      "file_id": "djngn",
+      "duration_sec": 172.62,
+      "num_speakers": 2,
+      "num_segments": 8
+    },
+    {
+      "file_id": "ehpau",
+      "duration_sec": 155.38,
+      "num_speakers": 3,
+      "num_segments": 36
+    },
+    {
+      "file_id": "ezsgk",
+      "duration_sec": 208.13,
+      "num_speakers": 3,
+      "num_segments": 52
+    },
+    {
+      "file_id": "femmv",
+      "duration_sec": 175.92,
+      "num_speakers": 4,
+      "num_segments": 22
+    },
+    {
+      "file_id": "fsaal",
+      "duration_sec": 198.36,
+      "num_speakers": 7,
+      "num_segments": 17
+    },
+    {
+      "file_id": "gqbvk",
+      "duration_sec": 164.57,
+      "num_speakers": 4,
+      "num_segments": 14
+    },
+    {
+      "file_id": "hycgx",
+      "duration_sec": 249.99,
+      "num_speakers": 2,
+      "num_segments": 21
+    },
+    {
+      "file_id": "ikgcq",
+      "duration_sec": 129.02,
+      "num_speakers": 2,
+      "num_segments": 20
+    },
+    {
+      "file_id": "iqbww",
+      "duration_sec": 233.61,
+      "num_speakers": 3,
+      "num_segments": 19
+    },
+    {
+      "file_id": "iwdjy",
+      "duration_sec": 284.32,
+      "num_speakers": 3,
+      "num_segments": 54
+    },
+    {
+      "file_id": "jhdav",
+      "duration_sec": 150.96,
+      "num_speakers": 5,
+      "num_segments": 10
+    },
+    {
+      "file_id": "jnivh",
+      "duration_sec": 139.27,
+      "num_speakers": 3,
+      "num_segments": 17
+    },
+    {
+      "file_id": "jtagk",
+      "duration_sec": 292.01,
+      "num_speakers": 6,
+      "num_segments": 35
+    },
+    {
+      "file_id": "kszpd",
+      "duration_sec": 160.55,
+      "num_speakers": 5,
+      "num_segments": 15
+    },
+    {
+      "file_id": "luvfz",
+      "duration_sec": 219.38,
+      "num_speakers": 7,
+      "num_segments": 53
+    },
+    {
+      "file_id": "mesob",
+      "duration_sec": 157.78,
+      "num_speakers": 4,
+      "num_segments": 29
+    },
+    {
+      "file_id": "migzj",
+      "duration_sec": 175.63,
+      "num_speakers": 4,
+      "num_segments": 66
+    },
+    {
+      "file_id": "mjgil",
+      "duration_sec": 207.55,
+      "num_speakers": 2,
+      "num_segments": 27
+    },
+    {
+      "file_id": "mpvoh",
+      "duration_sec": 139.92,
+      "num_speakers": 2,
+      "num_segments": 35
+    },
+    {
+      "file_id": "nctdh",
+      "duration_sec": 122.16,
+      "num_speakers": 6,
+      "num_segments": 15
+    },
+    {
+      "file_id": "nxgad",
+      "duration_sec": 169.92,
+      "num_speakers": 2,
+      "num_segments": 21
+    },
+    {
+      "file_id": "oekmc",
+      "duration_sec": 150.02,
+      "num_speakers": 5,
+      "num_segments": 11
+    },
+    {
+      "file_id": "onpra",
+      "duration_sec": 287.61,
+      "num_speakers": 6,
+      "num_segments": 28
+    },
+    {
+      "file_id": "pgkde",
+      "duration_sec": 294.43,
+      "num_speakers": 3,
+      "num_segments": 29
+    },
+    {
+      "file_id": "qhesr",
+      "duration_sec": 154.15,
+      "num_speakers": 2,
+      "num_segments": 6
+    },
+    {
+      "file_id": "qsfzo",
+      "duration_sec": 143.67,
+      "num_speakers": 2,
+      "num_segments": 9
+    },
+    {
+      "file_id": "qzwxa",
+      "duration_sec": 224.0,
+      "num_speakers": 2,
+      "num_segments": 12
+    },
+    {
+      "file_id": "rcxzg",
+      "duration_sec": 178.78,
+      "num_speakers": 4,
+      "num_segments": 23
+    },
+    {
+      "file_id": "sldwj",
+      "duration_sec": 140.33,
+      "num_speakers": 3,
+      "num_segments": 20
+    },
+    {
+      "file_id": "spzmn",
+      "duration_sec": 156.24,
+      "num_speakers": 2,
+      "num_segments": 5
+    },
+    {
+      "file_id": "tguxv",
+      "duration_sec": 265.53,
+      "num_speakers": 6,
+      "num_segments": 15
+    },
+    {
+      "file_id": "tplwz",
+      "duration_sec": 231.91,
+      "num_speakers": 6,
+      "num_segments": 38
+    },
+    {
+      "file_id": "uvnmy",
+      "duration_sec": 173.56,
+      "num_speakers": 4,
+      "num_segments": 12
+    },
+    {
+      "file_id": "wdjyj",
+      "duration_sec": 201.86,
+      "num_speakers": 8,
+      "num_segments": 31
+    },
+    {
+      "file_id": "willh",
+      "duration_sec": 125.54,
+      "num_speakers": 2,
+      "num_segments": 6
+    },
+    {
+      "file_id": "xvllq",
+      "duration_sec": 252.34,
+      "num_speakers": 3,
+      "num_segments": 21
+    },
+    {
+      "file_id": "ycxxe",
+      "duration_sec": 142.37,
+      "num_speakers": 4,
+      "num_segments": 16
+    },
+    {
+      "file_id": "ypwjd",
+      "duration_sec": 259.94,
+      "num_speakers": 4,
+      "num_segments": 18
+    },
+    {
+      "file_id": "ywcwr",
+      "duration_sec": 138.24,
+      "num_speakers": 2,
+      "num_segments": 8
+    },
+    {
+      "file_id": "zajzs",
+      "duration_sec": 191.14,
+      "num_speakers": 2,
+      "num_segments": 12
+    },
+    {
+      "file_id": "zidwg",
+      "duration_sec": 173.27,
+      "num_speakers": 7,
+      "num_segments": 19
+    },
+    {
+      "file_id": "zyffh",
+      "duration_sec": 252.07,
+      "num_speakers": 3,
+      "num_segments": 21
+    }
+  ]
+}
